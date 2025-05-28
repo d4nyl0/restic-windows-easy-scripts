@@ -1,0 +1,6 @@
+. "$PSScriptRoot\press_any_key_to_continue.ps1"
+. "$PSScriptRoot\restic_check.ps1"
+. "$PSScriptRoot\restic_backup.ps1"
+. "$PSScriptRoot\restic_forget_prune.ps1"
+. "$PSScriptRoot\wait.ps1"
+. "$PSScriptRoot\computer_poweroff.ps1"
