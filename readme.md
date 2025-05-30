@@ -29,7 +29,7 @@ Please, feel free to modify/add features.
 
 ## Know problems and resolution
 
-Spaces in the path of *restic bin* creates problems.
+Spaces in the path of *restic scripts* creates problems.
 
 In the case you can't change the path where restic scripts reside, you can
 create a symbolic link with `mklink` in `cmd.exe`:
