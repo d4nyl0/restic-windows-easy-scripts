@@ -27,7 +27,7 @@ All other scripts are shortcuts to specific restic commands.
 
 Please, feel free to modify/add features.
 
-## Know problems and resolution
+## Known problems and resolution
 
 Spaces in the path of *restic scripts* creates problems.
 
